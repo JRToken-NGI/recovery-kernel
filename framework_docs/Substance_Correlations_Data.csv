@@ -1,0 +1,4 @@
+gene,substance,correlation_level,notes,source
+MTHFR,Cobalamin (B12),low,"Population-level associations vary; interpretation requires clinical context",doi:example/placeholder1
+COMT,Catecholamines,moderate,"Variant-dependent differences reported in research; not deterministic",doi:example/placeholder2
+CYP2D6,Medication_X,high,"Known metabolism impact leading to dosing considerations; consult clinician",doi:example/placeholder3
