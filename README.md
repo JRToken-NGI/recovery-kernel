@@ -73,3 +73,52 @@ Just knowledge.
 ## 🌍 **Project Link**
 https://archive.org/details/the-recovery-kernel
 
+## Major Substance Classes & Groups
+
+Opioids (primary focus; many CYP2D6/CYP3A4/OPRM1 correlations)
+Depressants / CNS Depressants
+Stimulants
+Psychedelics / Classic Hallucinogens
+Entactogens / Empathogens
+New Psychoactive Substances (NPS)
+Plant-based / Botanical substances
+Polypharmacy combinations (analyzed for dangerous interactions)
+
+Specific Substances Covered
+
+Alcohol (ethanol) — GABRA2 variants, impulsivity correlation
+Opioids (general class)
+Heroin
+Fentanyl
+Codeine
+Tramadol
+Oxycodone
+Hydrocodone
+Morphine
+
+Stimulants
+Cocaine
+Methamphetamine (meth)
+Amphetamines (general)
+Caffeine (CYP1A2 slow metabolizers)
+
+MDMA (Ecstasy/Molly) — Serotonin depletion, "Suicide Tuesday" crash, interaction warnings (e.g., + Lithium)
+Ketamine — In deadly combo warning (E+K=G=NEVER)
+GHB (Gamma-Hydroxybutyrate) — In deadly combo warning
+Cannabis (Marijuana) — CNR1/FAAH genes, paranoia/psychosis risk
+Psilocybin (Magic mushrooms) — HTR2A correlations
+LSD (Lysergic acid diethylamide) — Anxiety/psychosis risk
+DMT (Dimethyltryptamine) — MAOA low activity, prolonged effects
+Kratom — CYP2D6/3A4 inhibition, drug-drug interactions (DDIs), dependence potential
+Kava — Hepatotoxicity risk, often combined (e.g., in products like Feel Free)
+Benzodiazepines (general; implied in depressant stacking)
+Barbiturates (historical/reference in polypharmacy cases)
+Caffeine (as stimulant, CYP1A2 relevance)
+Nicotine / Tobacco (implied in broader stimulant/depressant contexts)
+
+Notable Combinations & Special Cases Analyzed
+
+MDMA + Ketamine + GHB (fatal "E+K=G" warning)
+Lithium + MDMA (serotonin syndrome + brain damage)
+Polypharmacy in celebrity cases (e.g., Prince: fentanyl; Elvis: tolerance reset failure; Marilyn Monroe: likely CYP2D6/2C19 issues with multiple drugs)
+
