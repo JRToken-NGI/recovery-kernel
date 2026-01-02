@@ -1,0 +1,13 @@
+gene,variant_pattern,substance,anticipated_effect,rationale,evidence_level
+CYP2D6,PM|*4/*4|no-function,Codeine,Low analgesia; therapeutic failure,Prodrug needs 2D6 activation; PM -> low morphine,CPIC/label
+CYP2D6,UM|gene-duplication,Codeine,Overdose risk from rapid conversion to morphine,UM -> high morphine; resp. depression risk,CPIC/label
+CYP2D6,PM|no-function,Tramadol,Weak/no effect; low M1 metabolite,Prodrug; PM -> low O-desmethyltramadol,Guideline
+OPRM1,A118G|AG|GG,Fentanyl,Altered dosing sensitivity; addiction liability,μ-opioid receptor sensitivity varies,Literature
+CYP3A4,*22|low-activity,Fentanyl,Reduced clearance; higher exposure,3A4 primary metabolism,Literature
+ABCB1,3435C>T|TT,Fentanyl,Higher CNS penetration variability,P-gp transport affects CNS levels,Literature
+ADH1B,rs1229984|A,Alcohol,Faster acetaldehyde formation; flushing/risk,Alcohol metabolism,Literature
+ALDH2,rs671|A (ALDH2*2),Alcohol,Impaired acetaldehyde clearance; toxicity risk,Alcohol metabolism,Literature
+CYP1A2,*1F|inducible,Caffeine,Fast clearance; lower stimulant effect,Adenosine/caffeine pharmacogenomics,Literature
+ADORA2A,TT at rs5751876,Caffeine,Anxiety/insomnia sensitivity,Adenosine receptor sensitivity,Literature
+COMT,Met/Met,Amphetamines,Higher risk of anxiety/psychosis under stress,Dopamine clearance slow,Literature
+GRIN2B,risk-variant,Ketamine/PCP,Increased dissociative psychosis risk,NMDA receptor variants,Literature

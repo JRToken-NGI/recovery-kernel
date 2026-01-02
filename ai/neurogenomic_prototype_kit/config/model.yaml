@@ -1,0 +1,9 @@
+base_model: "mistralai/Mistral-7B-Instruct-v0.3"   # or 'meta-llama/Meta-Llama-3.1-8B-Instruct'
+load_4bit: true
+bnb_4bit_compute_dtype: "bfloat16"
+bnb_4bit_quant_type: "nf4"
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]

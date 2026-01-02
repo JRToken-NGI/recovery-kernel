@@ -1,0 +1,46 @@
+genes_of_interest:
+  methylation_detox:
+    - MTHFR
+    - APOE
+    - GSTP1
+  dopaminergic:
+    - COMT
+    - MAOA
+    - MAOB
+    - DRD2
+    - SLC6A3
+    - AKT1
+    - BDNF
+  serotonergic:
+    - HTR2A
+    - SLC6A4
+  gabaergic:
+    - GABRA2
+    - GABRB3
+    - GAD1
+    - GAD2
+    - SLC6A1
+    - CACNA2D1
+  opioid:
+    - OPRM1
+    - ABCB1
+  cannabinoid:
+    - CNR1
+    - FAAH
+  glutamatergic:
+    - GRIN2A
+    - GRIN2B
+  pharmacogenomics:
+    - CYP1A2
+    - CYP2D6
+    - CYP3A4
+    - CYP2C9
+    - CYP2C19
+    - CYP2E1
+    - ADH1B
+    - ALDH2
+    - ADORA2A
+    - BCHE
+    - FMO3
+    - UGT2B7
+    - SLC22A1
