@@ -118,6 +118,9 @@ Nicotine / Tobacco (implied in broader stimulant/depressant contexts)
 
 Notable Combinations & Special Cases Analyzed
 
+AGX Series are available to listen to on SoundCloud - https://soundcloud.com/penniwyse/sets/agx-whole-series
+
+
 MDMA + Ketamine + GHB (fatal "E+K=G" warning)
 Lithium + MDMA (serotonin syndrome + brain damage)
 Polypharmacy in celebrity cases (e.g., Prince: fentanyl; Elvis: tolerance reset failure; Marilyn Monroe: likely CYP2D6/2C19 issues with multiple drugs)
