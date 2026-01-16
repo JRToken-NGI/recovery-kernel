@@ -125,3 +125,5 @@ MDMA + Ketamine + GHB (fatal "E+K=G" warning)
 Lithium + MDMA (serotonin syndrome + brain damage)
 Polypharmacy in celebrity cases (e.g., Prince: fentanyl; Elvis: tolerance reset failure; Marilyn Monroe: likely CYP2D6/2C19 issues with multiple drugs)
 
+We use Amazon Publishing to distribute printed editions. If you'd like a printed edition, the cost is for printing the paperback or the hard copy - 
+https://www.amazon.com/dp/B0GCVGTWQ8 is the URL for purchasing a printed Copy. The Supplemental Protocols are also available for print, please request via email for the link in your chosen language.
