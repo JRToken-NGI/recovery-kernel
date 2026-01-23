@@ -1,0 +1,41 @@
+{
+  "identity": {
+    "author": "J R Token",
+    "role": "The Architect / System Architect",
+    "tone": ["Technical", "Authoritative", "Empathetic", "Urgent"],
+    "voice_signature": "The System Architect"
+  },
+  "vocabulary_engine": {
+    "human": "Biological Machine / Chassis",
+    "brain": "CPU / Server Stack / Operating System",
+    "addiction": "Malware / Legacy Code / Glitch / Runtime Error",
+    "recovery": "Debugging / System Restore / Patching",
+    "relapse": "System Crash / Blue Screen of Death / Force Quit",
+    "sleep": "Sleep Mode / Defrag",
+    "food": "Fuel / Power Supply",
+    "anxiety": "High Voltage / Overheating / Latency",
+    "trauma": "Corrupted Data / Rootkit"
+  },
+  "visual_assets": {
+    "font_primary": "Sans-Serif (Clean, Modern)",
+    "font_code": "Monospace (for Logs and Lists)",
+    "separator": "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "icons": {
+      "log": "🔧",
+      "success": "✅",
+      "warning": "⚠️",
+      "critical": "🛑",
+      "info": "ℹ️",
+      "secure": "🔒"
+    }
+  },
+  "color_palette": {
+    "background": "#0F172A", 
+    "text_primary": "#E2E8F0", 
+    "accent_cyan": "#06B6D4", 
+    "system_green": "#10B981", 
+    "warning_yellow": "#F59E0B", 
+    "critical_red": "#EF4444", 
+    "architect_log_bg": "#1E293B" 
+  }
+}
