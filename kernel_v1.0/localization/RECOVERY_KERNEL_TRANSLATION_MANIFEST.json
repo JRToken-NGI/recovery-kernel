@@ -1,0 +1,588 @@
+{
+  "manifest_version": "1.0",
+  "project": "The Recovery Kernel - Supplemental Patch Modules",
+  "description": "Translation manifest for maintaining consistent formatting, terminology, and structure across all language versions",
+  "last_updated": "2025-01-31",
+  
+  "color_scheme": {
+    "green": {
+      "hex": "C6EFCE",
+      "usage": "SYSTEM GREEN boxes - Solutions, protocols, positive outcomes, stable systems",
+      "icon": "✅"
+    },
+    "red": {
+      "hex": "FFC7CE",
+      "usage": "CRITICAL SYSTEM FAILURE boxes - Problems, dangers, warnings, failures",
+      "icon": "🛑"
+    },
+    "yellow": {
+      "hex": "FFEB9C",
+      "usage": "SYSTEM ALERT boxes - Cautions, important notices, warnings",
+      "icon": "⚠️"
+    },
+    "beige": {
+      "hex": "F5F5DC",
+      "usage": "ARCHITECT'S LOG boxes - Narrative explanations, philosophy, framing",
+      "icon": "🔧"
+    },
+    "blue": {
+      "hex": "D6EAF8",
+      "usage": "Category/activity boxes - Lists, options, prescriptions",
+      "icon": "📋"
+    },
+    "gray": {
+      "hex": "D9D9D9",
+      "usage": "Table headers, section headers, neutral information",
+      "icon": null
+    }
+  },
+
+  "box_types": {
+    "architect_log": {
+      "title_pattern": "🔧 {LANGUAGE_TERM_FOR_ARCHITECTS_LOG}",
+      "color": "beige",
+      "purpose": "Narrative voice of the System Architect, explanations, philosophy"
+    },
+    "system_green": {
+      "title_pattern": "✅ {LANGUAGE_TERM_FOR_SYSTEM_GREEN} — {SUBTITLE}",
+      "color": "green",
+      "purpose": "Solutions, protocols, positive frameworks, how-to sections"
+    },
+    "critical_failure": {
+      "title_pattern": "🛑 {LANGUAGE_TERM_FOR_CRITICAL_FAILURE} — {SUBTITLE}",
+      "color": "red",
+      "purpose": "Problems, dangers, what goes wrong, failure modes"
+    },
+    "system_alert": {
+      "title_pattern": "⚠️ {LANGUAGE_TERM_FOR_SYSTEM_ALERT} — {SUBTITLE}",
+      "color": "yellow",
+      "purpose": "Warnings, cautions, important notices"
+    }
+  },
+
+  "document_structure": {
+    "header": {
+      "line1": "{PROJECT_TITLE}",
+      "line2": "{SUBTITLE_MODULES_01_36}",
+      "separator": "━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    "protocol_title": {
+      "line1": "{PROTOCOL} {NUMBER}",
+      "line2": "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "line3": "{PROTOCOL_TITLE}",
+      "line4": "{PROTOCOL_SUBTITLE}"
+    },
+    "section_format": {
+      "pattern": "{SECTION_TERM} {PROTOCOL_NUMBER}.{SECTION_NUMBER}: {SECTION_TITLE}",
+      "subtitle_style": "italics"
+    },
+    "footer": {
+      "separator": "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "pattern": "{END_TERM} {PROTOCOL} {NUMBER} — {PROTOCOL_TITLE}"
+    }
+  },
+
+  "typography": {
+    "font": "Arial",
+    "sizes": {
+      "project_title": 32,
+      "protocol_number": 36,
+      "protocol_title": 32,
+      "protocol_subtitle": 24,
+      "section_title": 28,
+      "section_subtitle": 24,
+      "box_title": 24,
+      "body_text": 22,
+      "table_header": 18,
+      "table_body": 18,
+      "footer": 24
+    },
+    "page": {
+      "width": 12240,
+      "height": 15840,
+      "margins": {
+        "top": 1440,
+        "right": 1440,
+        "bottom": 1440,
+        "left": 1440
+      }
+    }
+  },
+
+  "file_naming_convention": {
+    "pattern": "Protocolo_{NUMBER}_{Title_With_Underscores}_{LANG_CODE}.docx",
+    "examples": {
+      "spanish": "Protocolo_36_Seguro_Garantia_Viaje_ES.docx",
+      "french": "Protocole_36_Assurance_Voyage_FR.docx",
+      "german": "Protokoll_36_Reiseversicherung_DE.docx",
+      "portuguese": "Protocolo_36_Seguro_Viagem_PT.docx",
+      "russian": "Protokol_36_Strakhovanie_Poezdki_RU.docx"
+    },
+    "master_index": "Indice_Maestro_Nucleo_Recuperacion_{LANG_CODE}.docx"
+  },
+
+  "core_terminology": {
+    "project_title": {
+      "EN": "THE RECOVERY KERNEL",
+      "ES": "EL NÚCLEO DE RECUPERACIÓN",
+      "FR": "LE NOYAU DE RÉCUPÉRATION",
+      "DE": "DER RECOVERY-KERNEL",
+      "PT": "O NÚCLEO DE RECUPERAÇÃO",
+      "RU": "ЯДРО ВОССТАНОВЛЕНИЯ",
+      "IT": "IL KERNEL DI RECUPERO",
+      "ZH": "恢复内核",
+      "JA": "リカバリーカーネル",
+      "KO": "회복 커널",
+      "AR": "نواة التعافي",
+      "HI": "रिकवरी कर्नेल"
+    },
+    "supplemental_modules": {
+      "EN": "Supplemental Patch Modules 01-36",
+      "ES": "Módulos de Parche Suplementarios 01-36",
+      "FR": "Modules de Correctifs Supplémentaires 01-36",
+      "DE": "Ergänzende Patch-Module 01-36",
+      "PT": "Módulos de Patch Suplementares 01-36",
+      "RU": "Дополнительные Патч-Модули 01-36"
+    },
+    "protocol": {
+      "EN": "PROTOCOL",
+      "ES": "PROTOCOLO",
+      "FR": "PROTOCOLE",
+      "DE": "PROTOKOLL",
+      "PT": "PROTOCOLO",
+      "RU": "ПРОТОКОЛ",
+      "IT": "PROTOCOLLO",
+      "ZH": "协议",
+      "JA": "プロトコル",
+      "KO": "프로토콜"
+    },
+    "section": {
+      "EN": "Section",
+      "ES": "Sección",
+      "FR": "Section",
+      "DE": "Abschnitt",
+      "PT": "Seção",
+      "RU": "Раздел"
+    },
+    "module": {
+      "EN": "Module",
+      "ES": "Módulo",
+      "FR": "Module",
+      "DE": "Modul",
+      "PT": "Módulo",
+      "RU": "Модуль"
+    },
+    "architects_log": {
+      "EN": "ARCHITECT'S LOG",
+      "ES": "BITÁCORA DEL ARQUITECTO",
+      "FR": "JOURNAL DE L'ARCHITECTE",
+      "DE": "ARCHITEKT-LOGBUCH",
+      "PT": "DIÁRIO DO ARQUITETO",
+      "RU": "ЖУРНАЛ АРХИТЕКТОРА"
+    },
+    "system_green": {
+      "EN": "SYSTEM GREEN",
+      "ES": "SISTEMA ESTABLE",
+      "FR": "SYSTÈME STABLE",
+      "DE": "SYSTEM GRÜN",
+      "PT": "SISTEMA ESTÁVEL",
+      "RU": "СИСТЕМА СТАБИЛЬНА"
+    },
+    "critical_failure": {
+      "EN": "CRITICAL SYSTEM FAILURE",
+      "ES": "FALLO CRÍTICO DEL SISTEMA",
+      "FR": "DÉFAILLANCE CRITIQUE DU SYSTÈME",
+      "DE": "KRITISCHER SYSTEMFEHLER",
+      "PT": "FALHA CRÍTICA DO SISTEMA",
+      "RU": "КРИТИЧЕСКИЙ СБОЙ СИСТЕМЫ"
+    },
+    "system_alert": {
+      "EN": "SYSTEM ALERT",
+      "ES": "ALERTA DEL SISTEMA",
+      "FR": "ALERTE SYSTÈME",
+      "DE": "SYSTEMWARNUNG",
+      "PT": "ALERTA DO SISTEMA",
+      "RU": "СИСТЕМНОЕ ПРЕДУПРЕЖДЕНИЕ"
+    },
+    "end_of_protocol": {
+      "EN": "END OF PROTOCOL",
+      "ES": "FIN DEL PROTOCOLO",
+      "FR": "FIN DU PROTOCOLE",
+      "DE": "ENDE DES PROTOKOLLS",
+      "PT": "FIM DO PROTOCOLO",
+      "RU": "КОНЕЦ ПРОТОКОЛА"
+    },
+    "the_system_architect": {
+      "EN": "— The System Architect",
+      "ES": "— El Arquitecto de Sistemas",
+      "FR": "— L'Architecte Système",
+      "DE": "— Der Systemarchitekt",
+      "PT": "— O Arquiteto de Sistemas",
+      "RU": "— Системный Архитектор"
+    },
+    "key_takeaways": {
+      "EN": "KEY TAKEAWAYS",
+      "ES": "CONCLUSIONES CLAVE",
+      "FR": "POINTS CLÉS",
+      "DE": "WICHTIGE ERKENNTNISSE",
+      "PT": "PONTOS CHAVE",
+      "RU": "КЛЮЧЕВЫЕ ВЫВОДЫ"
+    }
+  },
+
+  "technical_metaphor_glossary": {
+    "description": "Core IT/systems metaphors that must be preserved across all translations",
+    "terms": {
+      "kernel": {
+        "meaning": "Core operating system component; the foundation",
+        "preserve_as": "kernel/núcleo/noyau (keep technical feel)"
+      },
+      "protocol": {
+        "meaning": "Standardized procedure/rule set",
+        "preserve_as": "protocol (cognate in most languages)"
+      },
+      "patch": {
+        "meaning": "Software update/fix",
+        "preserve_as": "patch/parche/correctif"
+      },
+      "reboot": {
+        "meaning": "System restart",
+        "usage": "Recovery as system reboot"
+      },
+      "crash": {
+        "meaning": "System failure",
+        "usage": "Relapse/crisis as crash"
+      },
+      "malware": {
+        "meaning": "Malicious software",
+        "usage": "Addiction patterns as malware"
+      },
+      "rootkit": {
+        "meaning": "Deep system compromise",
+        "usage": "Shame as identity-level malware"
+      },
+      "firewall": {
+        "meaning": "Security barrier",
+        "usage": "Boundaries, protection mechanisms"
+      },
+      "vendor_lock_in": {
+        "meaning": "Trapped with single supplier",
+        "usage": "Dealer dependency"
+      },
+      "SLA": {
+        "meaning": "Service Level Agreement",
+        "usage": "Reliability guarantees"
+      },
+      "uptime": {
+        "meaning": "System operational time",
+        "usage": "Recovery time, functional days"
+      },
+      "latency": {
+        "meaning": "Delay in response",
+        "usage": "Waiting for dealer"
+      },
+      "bandwidth": {
+        "meaning": "Capacity for data transfer",
+        "usage": "Emotional/cognitive capacity"
+      },
+      "cache": {
+        "meaning": "Temporary storage",
+        "usage": "Stored trauma, sensory memories"
+      },
+      "debug": {
+        "meaning": "Find and fix errors",
+        "usage": "Self-examination, problem solving"
+      },
+      "refactor": {
+        "meaning": "Restructure code without changing function",
+        "usage": "Changing language/thought patterns"
+      },
+      "architecture": {
+        "meaning": "System design/structure",
+        "usage": "Addiction patterns, recovery framework"
+      },
+      "algorithm": {
+        "meaning": "Step-by-step procedure",
+        "usage": "The addiction loop"
+      },
+      "loop": {
+        "meaning": "Repeating cycle",
+        "usage": "Trigger → Behavior → Relief → Crash → Repeat"
+      },
+      "BIOS": {
+        "meaning": "Basic Input/Output System",
+        "usage": "Fundamental biological/family systems"
+      },
+      "holobiont": {
+        "meaning": "Host + microbiome as single unit",
+        "usage": "Human + gut bacteria ecosystem"
+      },
+      "quorum_sensing": {
+        "meaning": "Bacterial communication",
+        "usage": "Family system dynamics"
+      }
+    }
+  },
+
+  "addiction_terminology_translations": {
+    "trigger": {
+      "EN": "trigger",
+      "ES": "gatillo",
+      "FR": "déclencheur",
+      "DE": "Auslöser",
+      "PT": "gatilho",
+      "RU": "триггер"
+    },
+    "craving": {
+      "EN": "craving",
+      "ES": "antojo",
+      "FR": "envie",
+      "DE": "Verlangen",
+      "PT": "desejo",
+      "RU": "тяга"
+    },
+    "withdrawal": {
+      "EN": "withdrawal",
+      "ES": "abstinencia",
+      "FR": "sevrage",
+      "DE": "Entzug",
+      "PT": "abstinência",
+      "RU": "абстиненция"
+    },
+    "relapse": {
+      "EN": "relapse",
+      "ES": "recaída",
+      "FR": "rechute",
+      "DE": "Rückfall",
+      "PT": "recaída",
+      "RU": "рецидив"
+    },
+    "recovery": {
+      "EN": "recovery",
+      "ES": "recuperación",
+      "FR": "récupération/rétablissement",
+      "DE": "Genesung",
+      "PT": "recuperação",
+      "RU": "восстановление"
+    },
+    "sobriety": {
+      "EN": "sobriety",
+      "ES": "sobriedad",
+      "FR": "sobriété",
+      "DE": "Nüchternheit",
+      "PT": "sobriedade",
+      "RU": "трезвость"
+    },
+    "dopamine": {
+      "EN": "dopamine",
+      "ES": "dopamina",
+      "FR": "dopamine",
+      "DE": "Dopamin",
+      "PT": "dopamina",
+      "RU": "дофамин"
+    },
+    "tolerance": {
+      "EN": "tolerance",
+      "ES": "tolerancia",
+      "FR": "tolérance",
+      "DE": "Toleranz",
+      "PT": "tolerância",
+      "RU": "толерантность"
+    },
+    "anhedonia": {
+      "EN": "anhedonia",
+      "ES": "anhedonia",
+      "FR": "anhédonie",
+      "DE": "Anhedonie",
+      "PT": "anedonia",
+      "RU": "ангедония"
+    }
+  },
+
+  "protocol_titles": {
+    "01": {
+      "EN": "Emergency Triage",
+      "ES": "Triaje de Emergencia"
+    },
+    "02": {
+      "EN": "Behavioral Addictions",
+      "ES": "Adicciones Conductuales"
+    },
+    "03": {
+      "EN": "Sonic Architecture",
+      "ES": "Arquitectura Sónica"
+    },
+    "04": {
+      "EN": "Meeting Alternatives",
+      "ES": "Alternativas a Reuniones"
+    },
+    "05": {
+      "EN": "Digital Detox",
+      "ES": "Desintoxicación Digital"
+    },
+    "06": {
+      "EN": "Phenotype Assessment",
+      "ES": "Evaluación de Fenotipo"
+    },
+    "07": {
+      "EN": "Neuroplasticity Protocols",
+      "ES": "Protocolos de Neuroplasticidad"
+    },
+    "08": {
+      "EN": "Social Environment Engineering",
+      "ES": "Ingeniería de Ambiente Social"
+    },
+    "09": {
+      "EN": "Gut-Brain Axis",
+      "ES": "Eje Intestino-Cerebro"
+    },
+    "10": {
+      "EN": "Dopamine Architecture",
+      "ES": "Arquitectura de Dopamina"
+    },
+    "11": {
+      "EN": "Advanced Optimization",
+      "ES": "Optimización Avanzada"
+    },
+    "12": {
+      "EN": "Hydration Science",
+      "ES": "Ciencia de Hidratación"
+    },
+    "13": {
+      "EN": "Pharma-Trap Deprescribing",
+      "ES": "Desprescripción de Trampa-Farma"
+    },
+    "14": {
+      "EN": "Pain Management Precision",
+      "ES": "Precisión en Manejo del Dolor"
+    },
+    "15": {
+      "EN": "Sexual Dysfunction Restoration",
+      "ES": "Restauración de Disfunción Sexual"
+    },
+    "16": {
+      "EN": "Isolation Algorithm Analysis",
+      "ES": "Análisis del Algoritmo de Aislamiento"
+    },
+    "17": {
+      "EN": "Sleep Architecture",
+      "ES": "Arquitectura del Sueño"
+    },
+    "18": {
+      "EN": "Nutritional Scaffolding",
+      "ES": "Andamiaje Nutricional"
+    },
+    "19": {
+      "EN": "Exercise Pharmacology",
+      "ES": "Farmacología del Ejercicio"
+    },
+    "20": {
+      "EN": "Craving Cartography",
+      "ES": "Cartografía del Antojo"
+    },
+    "21": {
+      "EN": "Relapse Forensics",
+      "ES": "Forensia de Recaída"
+    },
+    "22": {
+      "EN": "Family System Dynamics",
+      "ES": "Dinámica del Sistema Familiar"
+    },
+    "23": {
+      "EN": "Financial Reconstruction",
+      "ES": "Reconstrucción Financiera"
+    },
+    "24": {
+      "EN": "Vocational Reintegration",
+      "ES": "Reintegración Vocacional"
+    },
+    "25": {
+      "EN": "Spiritual Agnosticism",
+      "ES": "Agnosticismo Espiritual"
+    },
+    "26": {
+      "EN": "Linguistic Refactoring",
+      "ES": "Refactorización Lingüística"
+    },
+    "27": {
+      "EN": "Clearing the Cache",
+      "ES": "Limpiando el Caché"
+    },
+    "28": {
+      "EN": "The Zero-Trust Brain",
+      "ES": "El Cerebro de Cero-Confianza"
+    },
+    "29": {
+      "EN": "The Peacetime Paradox",
+      "ES": "La Paradoja del Tiempo de Paz"
+    },
+    "30": {
+      "EN": "The Falsification Curiosity",
+      "ES": "La Curiosidad de la Falsificación"
+    },
+    "31": {
+      "EN": "The Parent Trap",
+      "ES": "La Trampa del Padre"
+    },
+    "32": {
+      "EN": "The Forced Migration",
+      "ES": "La Migración Forzada"
+    },
+    "33": {
+      "EN": "The Boundary Architect",
+      "ES": "El Arquitecto de Límites"
+    },
+    "34": {
+      "EN": "Cognitive Stabilization",
+      "ES": "Estabilización Cognitiva"
+    },
+    "35": {
+      "EN": "BIOS Integrity Check",
+      "ES": "Verificación de Integridad del BIOS"
+    },
+    "35S": {
+      "EN": "The Audio-Visual Bioshield",
+      "ES": "El Bioescudo Audiovisual"
+    },
+    "35Sb": {
+      "EN": "The Identity Rootkit",
+      "ES": "El Rootkit de Identidad"
+    },
+    "35Sc": {
+      "EN": "The Friction Protocol",
+      "ES": "El Protocolo de Fricción"
+    },
+    "35Sd": {
+      "EN": "The Edge Cases",
+      "ES": "Los Casos Extremos"
+    },
+    "36": {
+      "EN": "Trip Insurance & Assurance",
+      "ES": "Seguro y Garantía del Viaje"
+    }
+  },
+
+  "completed_translations": {
+    "ES": {
+      "language": "Spanish",
+      "status": "COMPLETE",
+      "protocols": ["01-36", "35S", "35Sb", "35Sc", "35Sd", "Master Index"],
+      "total_documents": 41
+    }
+  },
+
+  "translation_workflow": {
+    "step1": "Read this manifest for formatting standards",
+    "step2": "Extract English source content from /mnt/user-data/uploads/",
+    "step3": "Translate content preserving technical metaphors",
+    "step4": "Use Node.js docx library with color scheme from manifest",
+    "step5": "Follow file naming convention from manifest",
+    "step6": "Generate document and save to /mnt/user-data/outputs/",
+    "step7": "Update completed_translations section of manifest"
+  },
+
+  "node_template": {
+    "description": "Base Node.js template for generating protocol documents",
+    "file_reference": "See RECOVERY_KERNEL_NODE_TEMPLATE.js for full template"
+  }
+}
