@@ -2,7 +2,7 @@
 
 > [!WARNING]
 > ## Maintenance Notice
-> The Recovery Kernel has been temporarily taken offline in the repo to upload the 82 language audiobooks, new design, and updated materials. For the most current access points, please use the Archive.org directory and language links below.
+> The Recovery Kernel has been temporarily taken offline in the repo to upload the 82 language audiobooks, new design, and updated materials. For the most current access points, please use the Arch[...]
 >
 > [Our Interactions Checker is still available](https://tinyurl.com/interactionschecker)
 >
@@ -16,6 +16,7 @@
 > - Italian: https://archive.org/details/the-recovery-kernel-compendio-completo-del-protocollo-audiobook-part-2-it
 > - French: https://archive.org/details/the-recovery-kernel-recueil-complet-des-protocoles-fr
 > - German: https://archive.org/details/the-recovery-kernel-vollstandiges-protokoll-kompendium-de
+> - Dutch / Netherlands: https://archive.org/details/the-recovery-kernel-uitgebreid-protocolcompendium-nl
 > - Japanese: https://archive.org/details/the-recovery-kernel-jp
 > - Korean: https://archive.org/details/the-recovery-kernel-ko
 > - Vietnamese: https://archive.org/details/tai-lieu-huong-dan-chi-tiet-ve-quy-trinh-the-recovery-kernel-vi
@@ -24,6 +25,7 @@
 > - Arabic: https://archive.org/details/the-recovery-kernel-ar
 > - Ukrainian: https://archive.org/details/the-recovery-kernel-uk
 > - Turkish: https://archive.org/details/the-recovery-kernel-tam-protokol-kilavuzu-tr
+> - Thai: https://archive.org/details/the-recovery-kernel-th
 > - Chinese: https://archive.org/details/cn_20261023
 > - Norwegian: https://archive.org/details/the-recovery-kernel-komplett-protokollsamling-audiobook-part-3-no
 >
@@ -33,6 +35,7 @@
 > - Italian edition: https://archive.org/details/the-recovery-kernel-compendio-completo-del-protocollo-audiobook-part-2-it
 > - French edition: https://archive.org/details/the-recovery-kernel-recueil-complet-des-protocoles-fr
 > - German edition: https://archive.org/details/the-recovery-kernel-vollstandiges-protokoll-kompendium-de
+> - Dutch / Netherlands edition: https://archive.org/details/the-recovery-kernel-uitgebreid-protocolcompendium-nl
 > - Japanese edition: https://archive.org/details/the-recovery-kernel-jp
 > - Korean edition: https://archive.org/details/the-recovery-kernel-ko
 > - Vietnamese edition: https://archive.org/details/tai-lieu-huong-dan-chi-tiet-ve-quy-trinh-the-recovery-kernel-vi
@@ -41,10 +44,11 @@
 > - Arabic edition: https://archive.org/details/the-recovery-kernel-ar
 > - Ukrainian edition: https://archive.org/details/the-recovery-kernel-uk
 > - Turkish edition: https://archive.org/details/the-recovery-kernel-tam-protokol-kilavuzu-tr
+> - Thai edition: https://archive.org/details/the-recovery-kernel-th
 > - Chinese edition: https://archive.org/details/cn_20261023
 > - Norwegian edition: https://archive.org/details/the-recovery-kernel-komplett-protokollsamling-audiobook-part-3-no
 >
-> Due to a bug in archive.org's PDF creation tool, some of the PDFs generated from the MSWord documents contain errors. View the MSWord editions for the correct documentation. The audiobooks do not have these errors.
+> Due to a bug in archive.org's PDF creation tool, some of the PDFs generated from the MSWord documents contain errors. View the MSWord editions for the correct documentation. The audiobooks do not have this issue.
 >
 > Additional public references:
 > - [The Recovery Kernel — SoundCloud](https://soundcloud.com/the-recovery-kernel)
