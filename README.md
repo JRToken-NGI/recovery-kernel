@@ -2,12 +2,16 @@
 
 > [!WARNING]
 > ## Maintenance Notice
-> The Recovery Kernel has been temporarily taken offline in the repo to upload the 82 language audiobooks, new design, etc. Please see the Archive.org for the current repo or SoundCloud or YouTube [...]
+> The Recovery Kernel has been temporarily taken offline in the repo to upload the 82 language audiobooks, new design, and updated materials. For the most current access points, please use the Archive.org and SoundCloud links below.
 >
 > [Our Interactions Checker is still available](https://tinyurl.com/interactionschecker)
 >
 > ### Audio / Archive access
 > - SoundCloud (streaming, offline, and high-quality listening): https://soundcloud.com/the-recovery-kernel
+> - Archive.org profile: https://archive.org/details/@justin_robbins514
+> - Archive.org directory: https://archive.org/download/the-recovery-kernel
+>
+> ### Language editions
 > - English: https://archive.org/details/the-recovery-kernel
 > - Spanish: https://archive.org/details/compendio-completo-del-protocolo-de-the-recovery-kernel-audiobook-es
 > - Italian: https://archive.org/details/the-recovery-kernel-compendio-completo-del-protocollo-audiobook-part-2-it
@@ -23,9 +27,6 @@
 > - Turkish: https://archive.org/details/the-recovery-kernel-tam-protokol-kilavuzu-tr
 > - Chinese: https://archive.org/details/cn_20261023
 > - Norwegian: https://archive.org/details/the-recovery-kernel-komplett-protokollsamling-audiobook-part-3-no
->
-> ### Archive.org profile
-> - https://archive.org/details/@justin_robbins514
 >
 > ### Edition list
 > - English / Original edition: https://archive.org/details/the-recovery-kernel
@@ -44,10 +45,9 @@
 > - Chinese edition: https://archive.org/details/cn_20261023
 > - Norwegian edition: https://archive.org/details/the-recovery-kernel-komplett-protokollsamling-audiobook-part-3-no
 >
-> Due to a bug in archive.org's PDF creation tool some of the PDFs created from the MSWord documents have errors in them. View the MSWord Editions for the correct documentation. The audiobooks do not contain these errors.
+> Due to a bug in archive.org's PDF creation tool, some of the PDFs generated from the MSWord documents contain errors. View the MSWord editions for the correct documentation. The audiobooks do not contain these errors.
 >
 > Additional public references:
-> - [The Recovery Kernel archive.org directory](https://archive.org/download/the-recovery-kernel)
 > - [The Recovery Kernel — SoundCloud](https://soundcloud.com/the-recovery-kernel)
 >
 ---
