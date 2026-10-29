@@ -2,13 +2,12 @@
 
 > [!WARNING]
 > ## Maintenance Notice
-> The Recovery Kernel has been temporarily taken offline in the repo to upload the 82 language audiobooks, new design, and updated materials. For the most current access points, please use the Archive.org and SoundCloud links below.
+> The Recovery Kernel has been temporarily taken offline in the repo to upload the 82 language audiobooks, new design, and updated materials. For the most current access points, please use the Archive.org directory and language links below.
 >
 > [Our Interactions Checker is still available](https://tinyurl.com/interactionschecker)
 >
 > ### Audio / Archive access
 > - SoundCloud (streaming, offline, and high-quality listening): https://soundcloud.com/the-recovery-kernel
-> - Archive.org profile: https://archive.org/details/@justin_robbins514
 > - Archive.org directory: https://archive.org/download/the-recovery-kernel
 >
 > ### Language editions
@@ -45,7 +44,7 @@
 > - Chinese edition: https://archive.org/details/cn_20261023
 > - Norwegian edition: https://archive.org/details/the-recovery-kernel-komplett-protokollsamling-audiobook-part-3-no
 >
-> Due to a bug in archive.org's PDF creation tool, some of the PDFs generated from the MSWord documents contain errors. View the MSWord editions for the correct documentation. The audiobooks do not contain these errors.
+> Due to a bug in archive.org's PDF creation tool, some of the PDFs generated from the MSWord documents contain errors. View the MSWord editions for the correct documentation. The audiobooks do not have these errors.
 >
 > Additional public references:
 > - [The Recovery Kernel — SoundCloud](https://soundcloud.com/the-recovery-kernel)
