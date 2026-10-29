@@ -16,6 +16,13 @@
 > - Japanese: https://archive.org/details/the-recovery-kernel-jp
 > - Korean: https://archive.org/details/the-recovery-kernel-ko
 > - Vietnamese: https://archive.org/details/tai-lieu-huong-dan-chi-tiet-ve-quy-trinh-the-recovery-kernel-vi
+> - Russian: https://archive.org/details/the-recovery-kernel-ru
+> - Polish: https://archive.org/details/kompletny-zbior-protokolow-the-recovery-kernel-pl
+> - Arabic: https://archive.org/details/the-recovery-kernel-ar
+> - Ukrainian: https://archive.org/details/the-recovery-kernel-uk
+> - Turkish: https://archive.org/details/the-recovery-kernel-tam-protokol-kilavuzu-tr
+> - Chinese: https://archive.org/details/cn_20261023
+> - Norwegian: https://archive.org/details/the-recovery-kernel-komplett-protokollsamling-audiobook-part-3-no
 >
 > ### Archive.org profile
 > - https://archive.org/details/@justin_robbins514
@@ -29,6 +36,15 @@
 > - Japanese edition: https://archive.org/details/the-recovery-kernel-jp
 > - Korean edition: https://archive.org/details/the-recovery-kernel-ko
 > - Vietnamese edition: https://archive.org/details/tai-lieu-huong-dan-chi-tiet-ve-quy-trinh-the-recovery-kernel-vi
+> - Russian edition: https://archive.org/details/the-recovery-kernel-ru
+> - Polish edition: https://archive.org/details/kompletny-zbior-protokolow-the-recovery-kernel-pl
+> - Arabic edition: https://archive.org/details/the-recovery-kernel-ar
+> - Ukrainian edition: https://archive.org/details/the-recovery-kernel-uk
+> - Turkish edition: https://archive.org/details/the-recovery-kernel-tam-protokol-kilavuzu-tr
+> - Chinese edition: https://archive.org/details/cn_20261023
+> - Norwegian edition: https://archive.org/details/the-recovery-kernel-komplett-protokollsamling-audiobook-part-3-no
+>
+> Due to a bug in archive.org's PDF creation tool some of the PDFs created from the MSWord documents have errors in them. View the MSWord Editions for the correct documentation. The audiobooks do not contain these errors.
 >
 > Additional public references:
 > - [The Recovery Kernel archive.org directory](https://archive.org/download/the-recovery-kernel)
